@@ -159,4 +159,3 @@ The following provides important sources in MT assessments:
 - [Competency-Aware Neural Machine Translation: Can Machine Translation Know its Own Translation Quality? (EMNLP22)](https://arxiv.org/pdf/2211.13865.pdf)
 
 
-](https://github.com/nltk/nltk)
