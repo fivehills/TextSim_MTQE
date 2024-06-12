@@ -1,6 +1,6 @@
 # Machine Translation Quality Evaluation using Textual Similarity
 
-This repository focuses on using textual similarity as a key metric to evaluate machine translation quality. It builds upon the foundation of the Complex Question Answering Evaluation of GPT-family repository.
+This repository focuses on using textual similarity as a key metric to machine translation quality estimation.
 
 ## Introduction
 Evaluating the quality of machine translations can be challenging. Traditional metrics like BLEU score are widely used, but textual similarity metrics such as cosine similarity, Jaccard index, and others can provide deeper insights into the quality and accuracy of translations. This repository provides tools and scripts to evaluate machine translations using various textual similarity metrics.
