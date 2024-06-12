@@ -47,8 +47,10 @@ jaccard_idx = compute_jaccard(source, translation)
 print(f"Cosine Similarity: {text_sim}")
 print(f"Jaccard Index: {jaccard_idx}")
 ```
+## The datasets
+The datasets ending with "tar.gz" are from "mlqe-pe", including the information on "model_eval". The data on "hter" could also be available from (https://github.com/sheffieldnlp/mlqe-pe).
 
-# Citation:
+## Citation:
 pleas cite this paper if you use the code and sources in this repo:
 ```
 @article{sun2024textsim,
@@ -63,7 +65,7 @@ pleas cite this paper if you use the code and sources in this repo:
 The following provides important sources in MT assessments:
 
 
-# Metrics for MT with reference translations
+## Metrics for MT with reference translations
 
 - [BLEU] (https://github.com/mjpost/sacrebleu)
 
@@ -84,7 +86,7 @@ The following provides important sources in MT assessments:
 
 
 
-# Datasets and tools on TM evaluations
+## Datasets and tools on TM evaluations
 
 - [HADQAET](https://github.com/surrey-nlp/HADQAET)
 
@@ -104,14 +106,14 @@ The following provides important sources in MT assessments:
 - [TransQuest](https://github.com/mfomicheva/TransQuest)
  
 
-# Evaluation tasks
+## Evaluation tasks
 
 - [WMT](https://www2.statmt.org/)
 
 - [CCMT](http://mteval.cipsc.org.cn:81/CCMT2022/index.html#2)
 
 
-# Evaluation overview
+## Evaluation overview
 
 - [Kreutzer et al. (2015): QUality Estimation from ScraTCH (QUETCH): Deep Learning for Word-level Translation Quality Estimation]
 
