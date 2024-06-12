@@ -1,4 +1,4 @@
-[# Machine Translation Quality Evaluation using Textual Similarity
+# Machine Translation Quality Evaluation using Textual Similarity
 
 This repository focuses on using textual similarity as a key metric to evaluate machine translation quality. It builds upon the foundation of the Complex Question Answering Evaluation of GPT-family repository.
 
