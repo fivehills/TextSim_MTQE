@@ -8,11 +8,11 @@ Evaluating the quality of machine translations can be challenging. Traditional m
 ## Installation
 1. Clone the repository:
     ```
-    git clone https://github.com/fivehills/MTQE_text_sim
-    cd MTQE_text_sim
+    git clone https://github.com/fivehills/TextSim_MTQE
+    cd TextSim_MTQE
     ```
 2. Install the required packages:
-    ```bash
+    ```
     pip install -r requirements.txt
     ```
 
@@ -21,7 +21,7 @@ To evaluate machine translations, you can use the provided evaluation script. He
 
 1. Prepare your reference and translation texts in separate files.
 2. Run the evaluation script:
-    ```bash
+    ```
     python evaluate.py --reference path/to/reference.txt --translation path/to/translation.txt
     ```
 3. The script will output similarity scores using the implemented metrics.
@@ -38,7 +38,7 @@ Here is a basic example of how to compute textual similarity metrics using the p
 ```
 from textual_similarity import compute_cosine_similarity, compute_jaccard_index
 
-source = "This is a sample reference text."
+source = "这是一份参考范文。"
 translation = "This is a sample translation text."
 
 text_sim = compute_text_similarity(source, translation)
