@@ -113,25 +113,25 @@ The following provides important sources in MT assessments:
 
 # Evaluation overview
 
--[[1] Kreutzer et al. (2015): QUality Estimation from ScraTCH (QUETCH): Deep Learning for Word-level Translation Quality Estimation]
+- [Kreutzer et al. (2015): QUality Estimation from ScraTCH (QUETCH): Deep Learning for Word-level Translation Quality Estimation]
 
--[[2] Martins et al. (2016): Unbabel's Participation in the WMT16 Word-Level Translation Quality Estimation Shared Task]
+- [Martins et al. (2016): Unbabel's Participation in the WMT16 Word-Level Translation Quality Estimation Shared Task]
 
--[[3] Martins et al. (2017): Pushing the Limits of Translation Quality Estimation]
+- [Martins et al. (2017): Pushing the Limits of Translation Quality Estimation]
 
--[[4] Kim et al. (2017): Predictor-Estimator using Multilevel Task Learning with Stack Propagation for Neural Quality Estimation]
+- [Kim et al. (2017): Predictor-Estimator using Multilevel Task Learning with Stack Propagation for Neural Quality Estimation]
 
--[[5] Wang et al. (2018): Alibaba Submission for WMT18 Quality Estimation Task]
+- [Wang et al. (2018): Alibaba Submission for WMT18 Quality Estimation Task]
 
--[[6] Kepler et al. (2019): Unbabel’s Participation in the WMT19 Translation Quality Estimation Shared Task]
+- [Kepler et al. (2019): Unbabel’s Participation in the WMT19 Translation Quality Estimation Shared Task]
 
--[[7] Specia et al. (2020): Findings of the WMT 2020 Shared Task on Quality Estimation]
+- [Specia et al. (2020): Findings of the WMT 2020 Shared Task on Quality Estimation]
 
--[[8] Specia et al. (2021): Findings of the WMT 2021 Shared Task on Quality Estimation]
+- [Specia et al. (2021): Findings of the WMT 2021 Shared Task on Quality Estimation]
 
--[[9] Zerva et al. (2022): Findings of the WMT 2020 Shared Task on Quality Estimation]
+- [Zerva et al. (2022): Findings of the WMT 2020 Shared Task on Quality Estimation]
 
--[[10]Freitag et al,(2023): Results of WMT23 Metrics Shared Task]
+- [[10]Freitag et al,(2023): Results of WMT23 Metrics Shared Task]
 
 
 # Important Papers on TM assessments
