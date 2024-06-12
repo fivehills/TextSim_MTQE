@@ -22,7 +22,7 @@ To evaluate machine translations, you can use the provided evaluation script. He
 1. Prepare your reference and translation texts in separate files.
 2. Run the evaluation script:
     ```
-    python evaluate.py --reference path/to/reference.txt --translation path/to/translation.txt
+    python comput_sim.py --reference path/to/reference.txt --translation path/to/translation.txt
     ```
 3. The script will output similarity scores using the implemented metrics.
 
@@ -41,8 +41,8 @@ from textual_similarity import compute_cosine_similarity, compute_jaccard_index
 source = "这是一份参考范文。"
 translation = "This is a sample translation text."
 
-text_sim = compute_text_similarity(source, translation)
-jaccard_idx = compute_jaccard_index(source, translation)
+text_sim = compute_similarity(source, translation)
+jaccard_idx = compute_jaccard(source, translation)
 
 print(f"Cosine Similarity: {text_sim}")
 print(f"Jaccard Index: {jaccard_idx}")
