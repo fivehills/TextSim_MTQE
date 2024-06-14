@@ -62,6 +62,9 @@ pleas cite this paper if you use the code and sources in this repo:
 }
 ```
 
+Added link to Arxiv paper: (http://arxiv.org/abs/2406.07440)
+
+
 The following provides important sources in MT assessments:
 
 
